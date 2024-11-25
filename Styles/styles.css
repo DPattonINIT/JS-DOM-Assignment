@@ -1,0 +1,69 @@
+#bx1, #bx2, #bx3, #bx4, #bx5, #bx6, #bx7, #bx8, #selection-bx {
+    height: 350px;
+    width: 400px;
+    border: solid black 2.5px;
+    border-radius: .75%;
+
+}
+#bx1 h1, #bx2 h1, #bx3 h1, #bx4 h1, #bx5 h1, #bx6 h1, #bx7 h1, #bx8 h1{
+    margin: 0;
+    text-align: center;
+    font-size: 46px;
+    font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#selection-bx h1{
+    margin: 0;
+    font-size: 30px;
+    font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+
+.row1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 100px;
+    margin-bottom: 20px;
+}
+.row2{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 100px;
+    margin-bottom: 20px;
+}
+.row3{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 100px;
+    margin-bottom: 20px;
+}
+.color-btn{
+   width: 95%;
+    margin-left: 10px;
+}
+.reset-btn{
+    width: 95%;
+    margin-left: 10px;
+}
+#cInput{
+    width: 95%;
+   margin-left: 10px;
+}
+#bInput{
+    width: 95%;
+    margin-left: 10px;
+    
+}
+.colorInput p{
+    margin-left: 10px;
+ 
+   
+}
+.boxInput{
+    margin-left: 10px;
+}
