@@ -64,6 +64,12 @@
  
    
 }
-.boxInput{
+.boxInput p{
     margin-left: 10px;
+}
+.button-group{
+    padding-top: 15px;
+}
+.boxInput{
+    padding-top: 15px;
 }
